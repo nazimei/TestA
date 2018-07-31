@@ -1,5 +1,0 @@
-﻿  一维数组名称.c
-f:\daima(mine)\day04\day04\一维数组名称.c(21): error C2106: “=”: 左操作数必须为左值
-f:\daima(mine)\day04\day04\一维数组名称.c(33): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (*)[5]”
-f:\daima(mine)\day04\day04\一维数组名称.c(34): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
-f:\daima(mine)\day04\day04\一维数组名称.c(35): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
